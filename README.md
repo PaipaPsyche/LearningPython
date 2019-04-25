@@ -11,7 +11,7 @@
 ## ESPAÑOL
 
 A continuación el plan de seguimiento para comenzar a aprender python con la posibilidad de saltarse algunos preludios que si bien son necesarios para aprender *desde 
-ceros* , son opcionales para aquellos que ya tienen noción de como funciona la programación y alguna notación del lenguaje.
+ceros* , son opcionales para aquellos que ya tienen noción de como funciona la programación y alguna notación del lenguaje. El objetivo de este *manual basico introductorio* es brindar bases al lector para hacer computacion cientifica en Python. 
 
 #### UNIDAD 0
 > Leve introducción a la programación y al lenguaje Python. Editores de texto. Sistemas operativos.
