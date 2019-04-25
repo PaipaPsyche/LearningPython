@@ -1,4 +1,4 @@
-# Learning-Python
+# Learning Python
 #### Introduction course to python created with the aim of educating anyone interested in learning about it and not having much context in programming.
 ##### Curso de introducción a python creado  con el objetivo de educar a cualquier interesado en aprender del tema y no tenga mucho contexto en programación.
 
