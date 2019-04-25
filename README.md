@@ -2,7 +2,7 @@
 #### Introduction course to python created with the aim of educating anyone interested in learning about it and not having much context in programming.
 ##### Curso de introducción a python creado  con el objetivo de educar a cualquier interesado en aprender del tema y no tenga mucho contexto en programación.
 
-###### *Para hernan . . . Por motivarme a enseñar*
+
 
 
 
@@ -26,3 +26,10 @@ ceros* , son opcionales para aquellos que ya tienen noción de como funciona la 
 
 
 ## ENGLISH
+
+
+
+
+---
+
+*Para hernan . . . Por motivarme a enseñar y enseñarme el valor de lo invisible.*
