@@ -1,4 +1,7 @@
 # Learning Python
+**Author:** David L. Paipa.
+
+---
 #### Introduction course to python created with the aim of educating anyone interested in learning about it and not having much context in programming.
 ##### Curso de introducción a python creado  con el objetivo de educar a cualquier interesado en aprender del tema y no tenga mucho contexto en programación.
 
@@ -29,6 +32,11 @@ ceros* , son opcionales para aquellos que ya tienen noción de como funciona la 
 
 
 
+---
+#### About the Author:
+
+David L. Paipa, Physicist. Research in Computational Astrophysics and Machine Learning methods applied in Data mining.
+Passion for teaching, Writing and exploring the boundary between arts and natural sciences. I wrote this repository with the hope it will help someone to find computation as interesting as I do by learning to program from scratch. 
 
 ---
 
