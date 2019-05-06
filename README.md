@@ -19,12 +19,12 @@ ceros* , son opcionales para aquellos que ya tienen noción de como funciona la 
 #### UNIDAD 0
 > Leve introducción a la programación y al lenguaje Python. Editores de texto. Sistemas operativos.
 
-[Unidad 0]()
+[Unidad 0](https://github.com/PaipaPsyche/LearningPython/blob/master/clase_0_Introduccion.ipynb)
 
 #### UNIDAD 1
 > Calculando con Python. Scripts, Notebooks y Consola (Interacitvo).
 
-[Unidad 1]()
+[Unidad 1](https://github.com/PaipaPsyche/LearningPython/blob/master/clase_1_variables.ipynb)
 
 
 
