@@ -17,12 +17,12 @@ A continuación el plan de seguimiento para comenzar a aprender python con la po
 ceros* , son opcionales para aquellos que ya tienen noción de como funciona la programación y alguna notación del lenguaje. El objetivo de este *manual basico introductorio* es brindar bases al lector para hacer computacion cientifica en Python. 
 
 #### UNIDAD 0
-> Leve introducción a la programación y al lenguaje Python. Editores de texto. Sistemas operativos.
+> **Introducción a la programación y al lenguaje Python**. Scripts y Notebooks. Sistemas operativos.
 
 [Unidad 0](https://github.com/PaipaPsyche/LearningPython/blob/master/clase_0_Introduccion.ipynb)
 
 #### UNIDAD 1
-> Calculando con Python. Scripts, Notebooks y Consola (Interacitvo).
+> **Variables, funciones y librerías**.Built-in functions, Contenedores, Indentación.
 
 [Unidad 1](https://github.com/PaipaPsyche/LearningPython/blob/master/clase_1_variables.ipynb)
 
