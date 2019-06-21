@@ -18,14 +18,14 @@ ceros* , son opcionales para aquellos que ya tienen noción de como funciona la 
 
 ### CAPITULO 1 : EXPLORANDO PYTHON
 #### CLASE 0
-> **Introducción a la programación y al lenguaje Python**. Scripts y Notebooks. Sistemas operativos.
+> [**Introducción a la programación y al lenguaje Python**](https://github.com/PaipaPsyche/LearningPython/blob/master/Chapter_1/clase_0_Introduccion.ipynb). Scripts y Notebooks. Sistemas operativos.
 
-[Clase 0](https://github.com/PaipaPsyche/LearningPython/blob/master/Chapter_1/clase_0_Introduccion.ipynb)
+
 
 #### CLASE 1
-> **Variables, funciones y librerías**.Built-in functions, Contenedores, Indentación.
+> [**Variables, funciones y librerías**](https://github.com/PaipaPsyche/LearningPython/blob/master/Chapter_1/clase_1_variables.ipynb).Built-in functions, Contenedores, Indentación.
 
-[Clase 1](https://github.com/PaipaPsyche/LearningPython/blob/master/Chapter_1/clase_1_variables.ipynb)
+
 
 
 
