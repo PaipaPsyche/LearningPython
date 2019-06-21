@@ -16,15 +16,16 @@
 A continuación el plan de seguimiento para comenzar a aprender python con la posibilidad de saltarse algunos preludios que si bien son necesarios para aprender *desde 
 ceros* , son opcionales para aquellos que ya tienen noción de como funciona la programación y alguna notación del lenguaje. El objetivo de este *manual basico introductorio* es brindar bases al lector para hacer computacion cientifica en Python. 
 
-#### UNIDAD 0
+### CAPITULO 1 : EXPLORANDO PYTHON
+#### CLASE 0
 > **Introducción a la programación y al lenguaje Python**. Scripts y Notebooks. Sistemas operativos.
 
-[Unidad 0](https://github.com/PaipaPsyche/LearningPython/blob/master/clase_0_Introduccion.ipynb)
+[Clase 0](https://github.com/PaipaPsyche/LearningPython/blob/master/Chapter_1/clase_0_Introduccion.ipynb)
 
-#### UNIDAD 1
+#### CLASE 1
 > **Variables, funciones y librerías**.Built-in functions, Contenedores, Indentación.
 
-[Unidad 1](https://github.com/PaipaPsyche/LearningPython/blob/master/clase_1_variables.ipynb)
+[Clase 1](https://github.com/PaipaPsyche/LearningPython/blob/master/Chapter_1/clase_1_variables.ipynb)
 
 
 
