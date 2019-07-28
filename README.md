@@ -27,6 +27,8 @@ ceros* , son opcionales para aquellos que ya tienen noción de como funciona la 
 
 
 
+#### CLASE 2
+> [**Lógica y Loops**](https://github.com/PaipaPsyche/LearningPython/blob/master/Chapter_1/clase_2_loops.ipynb).Operadores y sentencias lógicas. While Loop. For Loop.
 
 
 ## ENGLISH
